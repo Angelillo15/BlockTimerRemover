@@ -20,6 +20,8 @@ tasks.shadowJar {
 }
 
 dependencies {
+    implementation(project(":BlockTimerRemover-API"))
+    implementation(project(":BlockTimerRemover-Bukkit"))
     implementation("com.github.Carleslc.Simple-YAML:Simple-Yaml:1.8.3")
     implementation("com.github.Angelillo15:ConfigManager:1.4")
     implementation("net.byteflux:libby-bukkit:1.1.5")
