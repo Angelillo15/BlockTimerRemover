@@ -1,0 +1,4 @@
+name: "BlockTimerRemover"
+main: "es.angelillo15.btr.BTRLoader"
+author: "Angelillo15"
+version: "${version}"
