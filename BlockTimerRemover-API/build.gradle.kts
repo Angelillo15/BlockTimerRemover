@@ -10,6 +10,7 @@ plugins {
 dependencies {
     compileOnly("org.spigotmc:spigot-api:1.19-R0.1-SNAPSHOT")
     compileOnly("com.destroystokyo.paper:paper-api:1.16.5-R0.1-SNAPSHOT")
+    compileOnly("com.github.Angelillo15:ConfigManager:1.4")
     compileOnly("org.yaml:snakeyaml:2.0")
     compileOnly("com.github.Carleslc.Simple-YAML:Simple-Yaml:1.8.3")
     compileOnly("net.byteflux:libby-bukkit:1.1.5")
